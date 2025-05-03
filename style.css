@@ -55,10 +55,10 @@ header {
   height: 400px;
 }
 
-#main-visual > div {
+/* #main-visual > div {
   text-align: center;
   height: 280px;
-}
+} */
 
 #main-message {
   position: absolute;
@@ -233,7 +233,7 @@ h3 {
 
 /* 3つの組織文化の表 */
 .culture-table {
-  margin: 50px;
+  margin-right: 50px;
 }
 
  /* 番号 */
@@ -393,7 +393,7 @@ h3 {
 }
 
 /* お問い合わせ内容のテキストエリア */
-.contacr-textarea {
+.contact-textarea {
   border-top: 0px;
   border-left: 0px;
   border-right: 0px;
@@ -609,7 +609,7 @@ line-height: 1;
 
 .product-section {
   display: flex;
-  padding: 20px 20px 0 0 ;
+  padding: 20px 20px 0 ;
 }
 
 .product-section .product-section-img {
